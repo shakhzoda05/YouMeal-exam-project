@@ -19,10 +19,10 @@ const categories: Category[] = [
 ];
 
 const Categories: React.FC = () => {
-  const [activeCategory, setActiveCategory] = useState<number>(1); // Default "Бургеры"
+  const [activeCategory, setActiveCategory] = useState<number>(1);
 
   const handleCategoryClick = (id: number) => {
-    setActiveCategory(id); // Set active category on click
+    setActiveCategory(id);
   };
 
   return (
@@ -48,3 +48,5 @@ const Categories: React.FC = () => {
 };
 
 export default Categories;
+
+// db.jsongayam i componentsdagi faylgayam data yozb tawaganman to'g'irlash kere DATA DB.JSONDAN KELADI!!!!!!!!!!!!!!!
