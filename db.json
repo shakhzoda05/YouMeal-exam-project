@@ -1,0 +1,80 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "name": "Мясная бомба",
+        "price": 689,
+        "image": "https://www.thespruceeats.com/thmb/h8O3i2WBjHcxOONKAGl7jR4xkNQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-your-best-grilled-burger-recipe-7511041-hero-C-c5080fa5f97c4c2b908968527f8a851b.jpg",
+        "kilogram": "520г"
+      },
+      {
+        "id": 2,
+        "name": "Супер сырный",
+        "price": 550,
+        "image": "https://www.thespruceeats.com/thmb/h8O3i2WBjHcxOONKAGl7jR4xkNQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-your-best-grilled-burger-recipe-7511041-hero-C-c5080fa5f97c4c2b908968527f8a851b.jpg",
+        "kilogram": "510г"
+      },
+      {
+        "id": 3,
+        "name": "Сытный",
+        "price": 639,
+        "image": "https://www.thespruceeats.com/thmb/h8O3i2WBjHcxOONKAGl7jR4xkNQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-your-best-grilled-burger-recipe-7511041-hero-C-c5080fa5f97c4c2b908968527f8a851b.jpg",
+        "kilogram": "580г"
+      },
+      {
+        "id": 4,
+        "name": "Тяжелый удар",
+        "price": 480,
+        "image": "https://www.beefobradys.com/images/OMG-Burger.jpg",
+        "kilogram": "470г"
+      },
+      {
+        "id": 5,
+        "name": "Вечная классика",
+        "price": 450,
+        "image": "https://www.beefobradys.com/images/OMG-Burger.jpg",
+        "kilogram": "450г"
+      },
+      {
+        "id": 6,
+        "name": "Super Cheese",
+        "price": 560,
+        "image": "https://www.beefobradys.com/images/OMG-Burger.jpg",
+        "kilogram": "510г"
+      }
+    ],
+    
+    "categories": [
+        {
+          "categoriesId": 1,
+          "name": "Бургеры "
+        },
+        {
+          "categoriesId": 2,
+          "name": "Закуски "
+        }, {
+          "categoriesId": 3,
+          "name": "Хот-доги"
+        }, {
+          "categoriesId": 4,
+          "name": "Комбо "
+        }, {
+          "categoriesId": 5,
+          "name": " Шаурма"
+        }, {
+          "categoriesId": 6,
+          "name": "Пицца"
+        }, {
+          "categoriesId": 7,
+          "name": "Вок "
+        }, {
+          "categoriesId": 8,
+          "name": " Десерты"
+        },
+        {
+          "categoriesId": 9,
+          "name": "Соусы "
+        }
+      ]
+  }
+  

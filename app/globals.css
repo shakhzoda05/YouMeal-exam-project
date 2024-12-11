@@ -15,7 +15,7 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  background: #F2F2F3;
+  font-family: Nunito;
 }
